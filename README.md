@@ -1,6 +1,6 @@
 # orientation_averaging
-The codes provided in each folder can be used to simulate different scenarios in the following manuscript:
-https://www.biorxiv.org/content/10.1101/2020.11.18.388272v1
+The codes provided in each folder can be used to simulate different scenarios in the following paper:
+https://www.nature.com/articles/s41598-021-93558-1
 
 To use the code:
 1- download the orientation_averaging folder
